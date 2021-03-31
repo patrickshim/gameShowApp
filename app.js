@@ -84,8 +84,6 @@ qwerty.addEventListener('click', e => {
   }
 });
 
-
-
 getRandomPhraseAsArray(phrasesArray);
 const characterArray = getRandomPhraseAsArray(phrasesArray);
 addPhraseToDisplay(characterArray);
